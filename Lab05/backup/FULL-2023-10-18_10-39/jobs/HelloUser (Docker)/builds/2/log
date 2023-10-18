@@ -1,0 +1,7 @@
+Started by user [8mha:////4MT80yyQN1D/HAymsweg0uuW7gLXm/5gqDqJGrG6mIUVAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/dLi1CL9rPy8jMrizJyy1KKMxLwUADJTFwfKAAAA[0mJonhySilverhand
+Running as SYSTEM
+?????????? ???????? ?? [8mha:////4LsgJv78mpnvPK49Lm9UgduKzdqT+O3H9SgY6nJKc2Q2AAAArx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyVEgYV/eT83ILSktQi/ZT85OzUIoXknPzSFF0DIEhJLzcvMstONAEAueE+ctkAAAA=[0mdocker cloud-0000dgw7r6ka4 on Docker (cloud docker) in workspace /home/jenkins/workspace/HelloUser (Docker)
+[HelloUser (Docker)] $ /bin/sh -xe /tmp/jenkins1768784984756020802.sh
++ echo Hello, vladosus!
+Hello, vladosus!
+Finished: SUCCESS

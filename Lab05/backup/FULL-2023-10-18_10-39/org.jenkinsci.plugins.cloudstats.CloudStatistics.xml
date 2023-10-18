@@ -1,0 +1,1122 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.cloudstats.CloudStatistics plugin="cloud-stats@320.v96b_65297a_4b_b_">
+  <active class="java.util.concurrent.CopyOnWriteArrayList"/>
+  <log>
+    <data>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>2124914793</fingerprint>
+        </id>
+        <name>docker cloud-0000dgb31ujzw on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608687276</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608692742</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608697705</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608698800</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1173810428</fingerprint>
+        </id>
+        <name>docker cloud-0000dgw7r6ka4 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608734961</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608737844</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608741160</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608742175</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>45665426</fingerprint>
+        </id>
+        <name>docker cloud-0000djfq6sjcc on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608933866</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608937155</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608941016</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608944948</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>96366271</fingerprint>
+        </id>
+        <name>docker cloud-0000dk9l7ov00 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697608998692</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609002043</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609005487</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609068610</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>752736032</fingerprint>
+        </id>
+        <name>docker cloud-0000dlluyfp10 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609103738</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609106961</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609110060</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609164138</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1317771348</fingerprint>
+        </id>
+        <name>docker cloud-0000dpfocklws on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609403795</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609407175</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609411003</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609470556</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>729378912</fingerprint>
+        </id>
+        <name>docker cloud-0000dr116b4d4 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609528314</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609531782</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609534980</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609617624</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>2141010158</fingerprint>
+        </id>
+        <name>docker cloud-0000dt9gjvjls on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609703776</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609707113</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609710778</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609764893</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1725051398</fingerprint>
+        </id>
+        <name>docker cloud-0000dvplcmc68 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609895417</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609898895</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609902324</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697609957793</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>655965686</fingerprint>
+        </id>
+        <name>docker cloud (jonhygh0st/docker_cloud)</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList">
+                      <org.jenkinsci.plugins.cloudstats.PhaseExecutionAttachment_-ExceptionAttachment>
+                        <status>FAIL</status>
+                        <title>Status 500: {&quot;message&quot;:&quot;Get \&quot;https://registry-1.docker.io/v2/\&quot;: dialing registry-1.docker.io:443 with direct connection: resolving host registry-1.docker.io: lookup registry-1.docker.io: no such host&quot;}
+</title>
+                        <text>com.github.dockerjava.api.exception.InternalServerErrorException: Status 500: {&quot;message&quot;:&quot;Get \&quot;https://registry-1.docker.io/v2/\&quot;: dialing registry-1.docker.io:443 with direct connection: resolving host registry-1.docker.io: lookup registry-1.docker.io: no such host&quot;}
+&#xd;
+	at com.github.dockerjava.core.DefaultInvocationBuilder.execute(DefaultInvocationBuilder.java:247)&#xd;
+	at com.github.dockerjava.core.DefaultInvocationBuilder.lambda$executeAndStream$1(DefaultInvocationBuilder.java:269)&#xd;
+	at java.base/java.lang.Thread.run(Thread.java:1583)&#xd;
+</text>
+                      </org.jenkinsci.plugins.cloudstats.PhaseExecutionAttachment_-ExceptionAttachment>
+                    </attachments>
+                    <started>1697611072747</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <null/>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <null/>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611082708</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>203345648</fingerprint>
+        </id>
+        <name>docker cloud-0000eh8nix4ps on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611582767</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611586034</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611589702</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611656058</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>175453838</fingerprint>
+        </id>
+        <name>docker cloud-0000ek265km1k on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611803770</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611807112</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611811996</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697611889026</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1713192505</fingerprint>
+        </id>
+        <name>docker cloud-0000enw429fg0 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612103793</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612107256</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612111136</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612182946</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1811642021</fingerprint>
+        </id>
+        <name>docker cloud-0000erqx9gr6w on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612403769</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612409591</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612413282</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612488135</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>499334121</fingerprint>
+        </id>
+        <name>docker cloud-0000evjy1h93w on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612703793</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612707780</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612711454</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697612808368</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1511475814</fingerprint>
+        </id>
+        <name>docker cloud-0000ezdfquihc on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613003801</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613007179</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613011717</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613104183</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1554686011</fingerprint>
+        </id>
+        <name>docker cloud-0000f376epsi4 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613303762</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613306945</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613310708</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613378132</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>48191245</fingerprint>
+        </id>
+        <name>docker cloud-0000f7124r00o on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613603763</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613607022</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613610762</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613695884</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1245302158</fingerprint>
+        </id>
+        <name>docker cloud-0000faux8s56k on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613903787</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613907070</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613910908</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697613983538</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1007254867</fingerprint>
+        </id>
+        <name>docker cloud-0000feq6gw1g4 on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614203783</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614210252</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614213772</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614295814</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+        <id>
+          <cloudName>Docker</cloudName>
+          <templateName>docker cloud (jonhygh0st/docker_cloud)</templateName>
+          <fingerprint>1971976679</fingerprint>
+        </id>
+        <name>docker cloud-0000fiiowb7cs on Docker</name>
+        <progress class="java.util.Collections$SynchronizedMap" serialization="custom">
+          <java.util.Collections_-SynchronizedMap>
+            <default>
+              <m class="linked-hash-map">
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>PROVISIONING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614503784</started>
+                    <phase>PROVISIONING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>LAUNCHING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614507420</started>
+                    <phase>LAUNCHING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>OPERATING</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614512131</started>
+                    <phase>OPERATING</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+                <entry>
+                  <org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>COMPLETED</org.jenkinsci.plugins.cloudstats.ProvisioningActivity_-Phase>
+                  <org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                    <attachments class="java.util.concurrent.CopyOnWriteArrayList"/>
+                    <started>1697614584448</started>
+                    <phase>COMPLETED</phase>
+                  </org.jenkinsci.plugins.cloudstats.PhaseExecution>
+                </entry>
+              </m>
+              <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+            </default>
+          </java.util.Collections_-SynchronizedMap>
+        </progress>
+      </org.jenkinsci.plugins.cloudstats.ProvisioningActivity>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+      <null/>
+    </data>
+    <next>21</next>
+    <size>21</size>
+  </log>
+</org.jenkinsci.plugins.cloudstats.CloudStatistics>

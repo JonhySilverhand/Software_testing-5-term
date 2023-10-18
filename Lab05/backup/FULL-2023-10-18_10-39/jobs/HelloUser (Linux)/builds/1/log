@@ -1,0 +1,7 @@
+Started by user [8mha:////4MT80yyQN1D/HAymsweg0uuW7gLXm/5gqDqJGrG6mIUVAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgZR/dLi1CL9rPy8jMrizJyy1KKMxLwUADJTFwfKAAAA[0mJonhySilverhand
+Running as SYSTEM
+Собирается удаленно на [8mha:////4GqH83Pz9QF1p7EvooJKSIipvWUg6ltgZ4qdzvA0EvlgAAAAoh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQifZ/MvNIKhdCk0rySUgDZJg6NywAAAA==[0mLinux Ubuntu (linux amd64) in workspace /home/TPO/Lab05/slave/workspace/HelloUser (Linux)
+[HelloUser (Linux)] $ /bin/sh -xe /tmp/jenkins2124794495353168627.sh
++ echo Hello, Linx!
+Hello, Linx!
+Finished: SUCCESS
