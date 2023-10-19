@@ -1,0 +1,57 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.Queue_-State>
+  <counter>1310</counter>
+  <items>
+    <hudson.model.Queue_-BuildableItem>
+      <actions>
+        <hudson.model.CauseAction>
+          <causeBag class="linked-hash-map">
+            <entry>
+              <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+              <int>133</int>
+            </entry>
+          </causeBag>
+        </hudson.model.CauseAction>
+      </actions>
+      <id>1235</id>
+      <task class="hudson.model.FreeStyleProject">I Can Win (Linux)</task>
+      <inQueueSince>1697706614437</inQueueSince>
+      <buildableStartMilliseconds>1697706614454</buildableStartMilliseconds>
+      <isPending>false</isPending>
+    </hudson.model.Queue_-BuildableItem>
+    <hudson.model.Queue_-BuildableItem>
+      <actions>
+        <hudson.model.CauseAction>
+          <causeBag class="linked-hash-map">
+            <entry>
+              <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+              <int>133</int>
+            </entry>
+          </causeBag>
+        </hudson.model.CauseAction>
+      </actions>
+      <id>1234</id>
+      <task class="hudson.model.FreeStyleProject">I Can Win (Docker)</task>
+      <inQueueSince>1697706614436</inQueueSince>
+      <buildableStartMilliseconds>1697706614454</buildableStartMilliseconds>
+      <isPending>false</isPending>
+    </hudson.model.Queue_-BuildableItem>
+    <hudson.model.Queue_-BuildableItem>
+      <actions>
+        <hudson.model.CauseAction>
+          <causeBag class="linked-hash-map">
+            <entry>
+              <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+              <int>4</int>
+            </entry>
+          </causeBag>
+        </hudson.model.CauseAction>
+      </actions>
+      <id>639</id>
+      <task class="hudson.model.FreeStyleProject">Bring It On</task>
+      <inQueueSince>1697403604196</inQueueSince>
+      <buildableStartMilliseconds>1697403604196</buildableStartMilliseconds>
+      <isPending>false</isPending>
+    </hudson.model.Queue_-BuildableItem>
+  </items>
+</hudson.model.Queue_-State>

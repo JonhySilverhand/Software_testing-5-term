@@ -1,0 +1,12 @@
+Запущен по таймеру
+Running as SYSTEM
+Building on the built-in node in workspace C:\ProgramData\Jenkins\.jenkins\workspace\I Can Win
+The recommended git tool is: NONE
+No credentials specified
+ > D:\GIT\Git\cmd\git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\I Can Win\.git # timeout=10
+Fetching changes from the remote Git repository
+ > D:\GIT\Git\cmd\git.exe config remote.origin.url https://github.com/vitalliuss/helloci # timeout=10
+Fetching upstream changes from https://github.com/vitalliuss/helloci
+ > D:\GIT\Git\cmd\git.exe --version # timeout=10
+ > git --version # 'git version 2.39.1.windows.1'
+ > D:\GIT\Git\cmd\git.exe fetch --tags --force --progress -- https://github.com/vitalliuss/helloci +refs/heads/*:refs/remotes/origin/* # timeout=10
