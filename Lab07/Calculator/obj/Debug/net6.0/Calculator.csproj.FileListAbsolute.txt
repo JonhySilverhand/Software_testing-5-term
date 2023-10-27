@@ -1,0 +1,15 @@
+D:\University\5th_term\Testing\Lab07\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\University\5th_term\Testing\Lab07\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\University\5th_term\Testing\Lab07\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\University\5th_term\Testing\Lab07\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\University\5th_term\Testing\Lab07\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\University\5th_term\Testing\Lab07\Calculator\obj\Debug\net6.0\ref\Calculator.dll
